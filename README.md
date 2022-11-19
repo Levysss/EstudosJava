@@ -1,2 +1,3 @@
 # EstudosJava
- aqui vou colocar o que estou estudando atualmente em java !
+ aqui coloquei meus primeiros passos em fila e pilhas
+ 
